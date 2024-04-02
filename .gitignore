@@ -1,5 +1,0 @@
-venv/
-venv
-.vs
-db.sqlite3
-__pycache__
